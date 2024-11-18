@@ -27,4 +27,5 @@ export class ProductsService {
   async delete(id: string): Promise<any> {
     return this.productModel.findByIdAndDelete(id).exec();
   }
+  // aisdasdasd
 }
