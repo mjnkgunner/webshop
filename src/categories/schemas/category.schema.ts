@@ -2,6 +2,7 @@ import { Schema, Prop, SchemaFactory } from '@nestjs/mongoose';
 import { Document } from 'mongoose';
 
 // tooi laf Vux tooi ddax suwra owr ddaay
+// bo may dang sua 
 
 @Schema()
 export class Category extends Document {

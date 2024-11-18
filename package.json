@@ -28,6 +28,7 @@
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.1"
   },
+  // hdwihsdwwsui
   "devDependencies": {
     "@nestjs/cli": "^10.0.0",
     "@nestjs/schematics": "^10.0.0",
