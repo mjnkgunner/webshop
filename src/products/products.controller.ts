@@ -30,6 +30,5 @@ export class ProductsController {
   async delete(@Param('id') id: string) {
     return this.productsService.delete(id);
   }
-  //  cha co nghia gi dau
-  // cha gi tiep
+  // asdjkasjkldajklsdjkl
 }
